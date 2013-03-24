@@ -1,7 +1,7 @@
 package org.hillel.it.math;
 
 import java.util.Scanner;
-
+//degdrgf
 //Калкулятор для двух чисел
 public class Calculator {
 	private double number1;
